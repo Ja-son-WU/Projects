@@ -1,0 +1,2 @@
+Day1 OK!
+Learning Python basics.
